@@ -1,0 +1,6 @@
+name = "Log-Minimal-JSON"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
